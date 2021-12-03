@@ -10,6 +10,10 @@
 
 * Only a set amount of alias can be created from one device.
 
+## Non Functional
+
+
+
 ## User Requirements
 
 * User should be able to put in link, and get minified version added to clipboard.
